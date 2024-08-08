@@ -1,1 +1,1 @@
-My name is Josiah and today is Tuesday, July 16 at 7:43 PM EDT.
+Hello! 
