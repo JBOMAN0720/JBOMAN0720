@@ -8,3 +8,5 @@ Hello! I'm Josiah
 
 
 ![Sonarqube]({https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white})
+
+https://github-readme-activity-graph.vercel.app/graph?username={josiahboman}
