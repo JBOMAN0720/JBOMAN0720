@@ -5,6 +5,13 @@ I have been working as professional project and program manager since 2016 and a
 [![linkedinicon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiahboman/)
 [![gmailicon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@josiahboman.com)
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=josiahboman&theme=dark)](https://git.io/streak-stats)
+
+---
+
+
 Analytics:
 
 ![sonarqubeicon](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
